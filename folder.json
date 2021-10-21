@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cap Rex",
+    "price": 2000,
+    "image": "images/cap.jpg",
+    "discount": "33%"
+  },
+  {
+    "name": "Cap Rexos",
+    "price": 2000,
+    "image": "images/cap2.jpg",
+    "discount": "20%"
+  },
+  {
+    "name": "Airpod",
+    "price": 1500,
+    "image": "images/airpod.jpg",
+    "discount": "10%"
+  },
+  {
+    "name": "Bluetooth Air",
+    "price": 1500,
+    "image": "images/bluetooth1.jpg",
+    "discount": "15%"
+  },
+  {
+    "name": "Bluetooth Air 2.0",
+    "price": 2500,
+    "image": "images/bluetooth2.jpg",
+    "discount": "40%"
+  },
+  {
+    "name": "Bluetooth Air 0.8",
+    "price": 1900,
+    "image": "images/bluetooth3.jpg",
+    "discount": "30%"
+  },
+  {
+    "name": "Bluetooth",
+    "price": 1700,
+    "image": "images/bluetooth4.jpg",
+    "discount": "25%"
+  },
+  {
+    "name": "Pant",
+    "price": 400,
+    "image": "images/pant.jpg",
+    "discount": "35%"
+  }
+]
